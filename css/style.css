@@ -14,3 +14,7 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+img {
+	width: 600px;
+	height: 600px;
+}
